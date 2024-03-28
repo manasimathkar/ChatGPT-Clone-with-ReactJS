@@ -1,11 +1,13 @@
 # ChatGPT Clone with ReactJS
-
+<br><br><br><br>
 ## Technologies Used
+<br><br>
+<br><br>
 ### Client
-Typescript
-Next.js
-React.js
-TailwindCSS
+<br>Typescript
+<br>Next.js
+<br>React.js
+<br>TailwindCSS
 ### Backend
-Firebase
-OpenAI
+<br>Firebase
+<br>OpenAI
