@@ -2,7 +2,6 @@
 <br><br><br><br>
 ## Technologies Used
 <br><br>
-<br><br>
 ### Client
 <br>Typescript
 <br>Next.js
